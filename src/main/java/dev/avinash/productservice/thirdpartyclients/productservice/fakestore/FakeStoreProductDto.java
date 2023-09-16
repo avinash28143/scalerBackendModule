@@ -1,4 +1,4 @@
-package dev.avinash.productservice.dtos;
+package dev.avinash.productservice.thirdpartyclients.productservice.fakestore;
 
 import lombok.Getter;
 import lombok.Setter;
